@@ -17,6 +17,11 @@ body {
   font-size: 30px;
 }
 
+.choice-container {
+  margin-right: auto;
+  margin-left: auto;
+}
+
 .choicce-container img {
   height: 300px;
   width: 200px;
@@ -30,6 +35,7 @@ body {
 
 .person p {
   text-align: center;
+  font-size: 25px;
 }
 
 .final-choicce-container {
