@@ -1,0 +1,41 @@
+
+body {
+  background-color: black;
+  color: white;
+  margin-bottom: 100px;
+}
+
+.top-container {
+  text-align: center;
+}
+
+.top-container h1 {
+  font-size: 80px;
+}
+
+.top-container p {
+  font-size: 30px;
+}
+
+.choicce-container img {
+  height: 300px;
+  width: 200px;
+  margin: 10px 60px 0px 60px;
+}
+
+.person {
+  float: left;
+  border: solid 5px white;
+}
+
+.person p {
+  text-align: center;
+}
+
+.final-choicce-container {
+  text-align: center;
+}
+
+.retry-container {
+  text-align: center;
+}
